@@ -36,7 +36,7 @@
 ### Блок-схема
 ![Блок-схема алгоритма](Лаба2.png) 
 
- [https://drive.google.com/file/d/1yiG0vhnU-ZRHZ5Odnnhgg0rJKxmrrRSx/view?usp=sharing^](# "как lab_2_schema.png")
+ [https://drive.google.com/file/d/1yiG0vhnU-ZRHZ5Odnnhgg0rJKxmrrRSx/view?usp=sharing^]
 
 
 ## 2. Реализация программы
