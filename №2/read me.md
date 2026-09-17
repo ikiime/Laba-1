@@ -41,7 +41,8 @@
 
 ## 2. Реализация программы
 
-<!-- #include <stdio.h>
+<!-- 
+#include <stdio.h>
 #include <locale.h>
 
 int main() 
@@ -76,7 +77,8 @@ int main()
     printf("Доплатить всего: %d руб\n", S);
 
     return 0;
-}-->
+}
+-->
 
 ## 3. Результаты работы программы
 
