@@ -41,12 +41,50 @@
 
 ## 2. Реализация программы
 
-<!-- Вставьте код программы-->
+<!-- #include <stdio.h>
+#include <locale.h>
+
+int main() 
+{
+    setlocale(LC_CTYPE, "RUS");
+    int sofa = 10;      
+    int suitcase = 12;  
+    int trunk = 5;      
+    int basket = 3;     
+    int box = 4;        
+    int dog = 6;        
+    int N = 300;  
+    int V = 400;  
+    int M_bag = 20;
+    int M_hand = 5;
+    int bagage_total = sofa + suitcase + trunk + basket + box;
+    int X = 0;
+    if (bagage_total > M_bag) 
+    {
+        X = bagage_total - M_bag;
+    }
+    int Y = 0;
+    if (dog > M_hand) 
+    {
+        Y = dog - M_hand;
+    }
+    int S = X * N + Y * V;
+
+    printf("Âåñ áàãàæà: %d êã\n", bagage_total);
+    printf("Ëèøíèé áàãàæ: %d êã\n", X);
+    printf("Ëèøíÿÿ ðó÷íàÿ êëàäü: %d êã\n", Y);
+    printf("Äîïëàòèòü âñåãî: %d ðóá\n", S);
+
+    return 0;
+}-->
 
 ## 3. Результаты работы программы
 
-[После запуска программы просто скопируйте вывод из консоли и вставьте его в этот раздел ]
+[Вес багажа: 34 кг
+Лишний багаж: 14 кг
+Лишняя ручная кладь: 1 кг
+Доплатить всего: 4600 руб ]
 
 ## 4. Информация о разработчике
 
-[Укажите фамилию, имя и группу ]
+[Теперик Карина, бОТИ-262 ]
