@@ -70,10 +70,10 @@ int main()
     }
     int S = X * N + Y * V;
 
-    printf("Âåñ áàãàæà: %d êã\n", bagage_total);
-    printf("Ëèøíèé áàãàæ: %d êã\n", X);
-    printf("Ëèøíÿÿ ðó÷íàÿ êëàäü: %d êã\n", Y);
-    printf("Äîïëàòèòü âñåãî: %d ðóá\n", S);
+    printf("Вес багажа: %d кг\n", bagage_total);
+    printf("Лишний багаж: %d кг\n", X);
+    printf("Лишняя ручная кладь: %d кг\n", Y);
+    printf("Доплатить всего: %d руб\n", S);
 
     return 0;
 }-->
