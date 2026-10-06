@@ -29,7 +29,7 @@
 ### Блок-схема
 ![Блок-схема алгоритма](Лаба4.png) 
 
- [^]
+ [https://drive.google.com/file/d/1qk3zOxWpxLbeMDh39gWIFNTTZl8bnwVr/view?usp=drive_link]
 
 
 ## 2. Реализация программы
