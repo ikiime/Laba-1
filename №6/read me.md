@@ -30,7 +30,7 @@
 ### Блок-схема
 ![Блок-схема алгоритма](Лаба6.png) 
 
- [^]
+ [https://drive.google.com/file/d/1GhITkrWoA98QbdKuiJtcXTGB_JOzxePn/view?usp=sharing]
 
 
 ## 2. Реализация программы
